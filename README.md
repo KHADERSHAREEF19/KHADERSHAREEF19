@@ -1,4 +1,4 @@
-![logo](https://github.com/KHADERSHAREEF19/KHADERSHAREEF19/blob/main/Github%20Banner.png)
+![logo](https://github.com/KHADERSHAREEF19/KHADERSHAREEF19/blob/main/Github%20Banner)
 
 
 <h1 align="center">Hi 👋, 
