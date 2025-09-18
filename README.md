@@ -11,6 +11,8 @@
         <path d="M12 2L4 5.45V12.18C4 16.14 7.21 19.88 12 21.5C16.79 19.88 20 16.14 20 12.18V5.45L12 2Z" fill="url(#logoIconGradient)"/>
         <path d="M14.5 14H12.5V17H9.5V11C9.5 9.34 10.84 8 12.5 8C14.16 8 15.5 9.34 15.5 11V12.5H12.5V11C12.5 10.17 11.83 9.5 11 9.5C10.17 9.5 9.5 10.17 9.5 11V12.5H14.5V14Z" fill="#030712"/>
     </svg>
+    <img src="https-user-images.githubusercontent.com/17827494/219808925-5421c9a6-2b47-4185-80a5-8121a9757ac9.png" alt="Logo" width="100" height="100">
+  </a>
     <h1 style="margin-left: 15px;">Cipher Hub</h1>
   </div>
 
@@ -23,7 +25,7 @@
   <div>
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
     <img src="https://img.shields.io/badge/Maintained-Yes-green.svg" alt="Maintained">
-    <img src="https://img.shields.io/github/forks/ismailali025/cipher-hub?style=social" alt="Forks">
+    <img src="https://img.shields.io/github/forks/ismailali025/-hub?style=social" alt="Forks">
     <img src="https://img.shields.io/github/stars/ismailali025/cipher-hub?style=social" alt="Stargazers">
   </div>
   
