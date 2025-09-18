@@ -1,39 +1,3 @@
-<div align="center">
-  
-  <a href="#">
-    <svg width="100" height="100" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <defs>
-            <linearGradient id="logoIconGradient" x1="0" y1="2" x2="24" y2="22" gradientUnits="userSpaceOnUse">
-                <stop stop-color="#60a5fa" />
-                <stop offset="1" stop-color="#34d399" />
-            </linearGradient>
-        </defs>
-        <path d="M12 2L4 5.45V12.18C4 16.14 7.21 19.88 12 21.5C16.79 19.88 20 16.14 20 12.18V5.45L12 2Z" fill="url(#logoIconGradient)"/>
-        <path d="M14.5 14H12.5V17H9.5V11C9.5 9.34 10.84 8 12.5 8C14.16 8 15.5 9.34 15.5 11V12.5H12.5V11C12.5 10.17 11.83 9.5 11 9.5C10.17 9.5 9.5 10.17 9.5 11V12.5H14.5V14Z" fill="#030712"/>
-    </svg>
-  </a>
-
-  <h1 align="center">Cipher Hub</h1>
-
-  <p align="center">
-    <strong>Your Privacy, Your Control.</strong>
-    <br />
-    <em>A modern, secure, on-device file encryption tool built with the future of web technology.</em>
-    <br />
-    <br />
-    <a href="#"><strong>Explore the Live App »</strong></a>
-  </p>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
-  <img src="https://img.shields.io/badge/Maintained-Yes-green.svg" alt="Maintained">
-  <img src="https://img.shields.io/github/forks/ismailali025/cipher-hub?style=social" alt="Forks">
-  <img src="https://img.shields.io/github/stars/ismailali025/cipher-hub?style=social" alt="Stargazers">
-</div>
-
----
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/17827494/219807533-35a02275-a2bc-4428-b8a7-684c550616ed.png" alt="Cipher Hub Screenshot" width="800">
 </p>
@@ -71,20 +35,24 @@ The most important feature of Cipher Hub is its **on-device security model**. Un
 
 ---
 
-## 💡 Usage
+## 💡 How It Works
 
-Since Cipher Hub is a self-contained web application, using it is incredibly simple:
+Using Cipher Hub is as easy as 1-2-3. Here’s how you can secure and restore your files in a few simple steps.
 
-1.  **Clone the repository (for local use):**
-    ```sh
-    git clone [https://github.com/your-username/cipher-hub.git](https://github.com/your-username/cipher-hub.git)
-    ```
-2.  **Open the file:**
-    * Navigate to the project folder.
-    * Open the `index.html` file in your favorite web browser.
-3.  **Or, visit the live website** linked at the top of this README.
+### To Encrypt a File 🛡️
 
-Once loaded, you can navigate to the Dashboard to begin encrypting and decrypting files immediately.
+1.  **Navigate to the Dashboard** from the home page.
+2.  **Select Your File** by dragging and dropping it into the "Encrypt" panel or by clicking to browse your computer.
+3.  **Click "Encrypt File"**. The app will process your file instantly on your device.
+4.  **Save Your Key!** A unique encryption key will be generated. This is **extremely important**. Copy this key and save it in a secure place (like a password manager). **If you lose this key, your file cannot be recovered.**
+5.  **Download Your File.** Click the "Download Encrypted File" button. Your new, secure file will be saved to your computer with a `.encrypted` extension.
+
+### To Decrypt a File 🔑
+
+1.  **Select the Encrypted File.** On the Dashboard, switch to the "Decrypt" panel. Drag and drop your `.encrypted` file or click to select it.
+2.  **Enter Your Key.** Paste the unique encryption key you saved earlier into the "Encryption Key" text box.
+3.  **Click "Decrypt File"**.
+4.  **Download Your Original File.** The app will restore your file. Click the "Download Decrypted File" button to save it back to your computer in its original format.
 
 ---
 
@@ -97,16 +65,3 @@ Once loaded, you can navigate to the Dashboard to begin encrypting and decryptin
 -   **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
 
 ---
-
-## 📜 License
-
-This project is distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-## 🙏 Acknowledgements
-
-* [Web3Forms](https://web3forms.com/) for the hassle-free contact form service.
-* [Google Gemini](https://gemini.google.com/) for AI integration.
-* [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework.
-* [heroicons](https://heroicons.com/) for the beautiful icons.
