@@ -1,6 +1,42 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/17827494/219807533-35a02275-a2bc-4428-b8a7-684c550616ed.png" alt="Cipher Hub Screenshot" width="800">
-</p>
+<div align="center">
+  
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <svg width="80" height="80" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+            <linearGradient id="logoIconGradient" x1="0" y1="2" x2="24" y2="22" gradientUnits="userSpaceOnUse">
+                <stop stop-color="#60a5fa" />
+                <stop offset="1" stop-color="#34d399" />
+            </linearGradient>
+        </defs>
+        <path d="M12 2L4 5.45V12.18C4 16.14 7.21 19.88 12 21.5C16.79 19.88 20 16.14 20 12.18V5.45L12 2Z" fill="url(#logoIconGradient)"/>
+        <path d="M14.5 14H12.5V17H9.5V11C9.5 9.34 10.84 8 12.5 8C14.16 8 15.5 9.34 15.5 11V12.5H12.5V11C12.5 10.17 11.83 9.5 11 9.5C10.17 9.5 9.5 10.17 9.5 11V12.5H14.5V14Z" fill="#030712"/>
+    </svg>
+    <h1 style="margin-left: 15px;">Cipher Hub</h1>
+  </div>
+
+  <p>
+    <strong>Your Privacy, Your Control.</strong>
+    <br />
+    <em>A modern, secure, on-device file encryption tool built with the future of web technology.</em>
+  </p>
+  
+  <div>
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
+    <img src="https://img.shields.io/badge/Maintained-Yes-green.svg" alt="Maintained">
+    <img src="https://img.shields.io/github/forks/ismailali025/cipher-hub?style=social" alt="Forks">
+    <img src="https://img.shields.io/github/stars/ismailali025/cipher-hub?style=social" alt="Stargazers">
+  </div>
+  
+  <br>
+
+  <p>
+    <img src="https://user-images.githubusercontent.com/17827494/219807533-35a02275-a2bc-4428-b8a7-684c550616ed.png" alt="Cipher Hub Screenshot" width="800">
+  </p>
+  <a href="#"><strong>Explore the Live App »</strong></a>
+
+</div>
+
+---
 
 ## 📄 Introduction
 
@@ -65,3 +101,16 @@ Using Cipher Hub is as easy as 1-2-3. Here’s how you can secure and restore yo
 -   **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
 
 ---
+
+## 📜 License
+
+This project is distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+## 🙏 Acknowledgements
+
+* [Web3Forms](https://web3forms.com/) for the hassle-free contact form service.
+* [Google Gemini](https://gemini.google.com/) for AI integration.
+* [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework.
+* [heroicons](https://heroicons.com/) for the beautiful icons.
