@@ -1,9 +1,9 @@
 
 
 
-<h1 align="center">Hi 👋, 
+<h1 align="center">Yo! 👋, 
 I'm Khader Shareef</h1>
-<h3 align="center">A passionate CyberSecurity Techie from India</h3>
+<h3 align="center">AI Threat Validation Analyst</h3>
 
 <img align="right" alt="hacking" width="400" src ="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
@@ -11,13 +11,13 @@ I'm Khader Shareef</h1>
 
 <p align="left"> <a href="https://khadershareef19.vercel.app/" target="blank"><img src="https://img.shields.io/twitter/follow/kh4dr9019?logo=twitter&style=for-the-badge" alt="khaderportfolio" /></a> </p>
 
-- 🔭 I’m currently working on **VPNify**
+- 🔭 I’m currently working on **Active Directory**
 
-- 🌱 I’m currently learning **Jr.SOC Analyst**
+- 🌱 I’m currently learning **Multi Cloud Devops**
 
-- 👯 I’m looking to collaborate on **Cybersecurity Projects**
+- 👯 I’m looking to collaborate on **Real-world Projects**
 
-- 💬 Ask me about **Cyber Security,Ethical Hacking,Capture the flags**
+- 💬 Ask me about **Cyber Security, Forensics, Multi-cloud and Devops**
 
 - 📫 How to reach me **infa.khadershareef@gmail.com**
 
